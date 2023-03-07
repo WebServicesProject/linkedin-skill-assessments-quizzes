@@ -187,6 +187,8 @@ class Main {
 - [x] truetrue
 - [ ] falsetrue
 
+Reason: ArrayList can hold different data types
+
 #### Q10. Given the following two classes, what will be the output of the Main class?
 
 ```java
