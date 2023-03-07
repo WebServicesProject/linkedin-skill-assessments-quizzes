@@ -485,7 +485,7 @@ class Main {
 - [ ] A runtime exception is thrown.
 - [ ] 3false
 - [ ] 2true
-- [x] 3true
+- [x] 3true  
 Reason: Boolean.parseBoolean is case-ignoring.
 
 #### Q30. What is the result of this code?
